@@ -7,6 +7,6 @@
 <title>BitsPedia - Get Facebook Friends using Java </title>
 </head>
 <body>
-<a href="https://www.facebook.com/dialog/oauth?client_id=225380084301603&redirect_uri=http://polpokpoi.iptime.org:8282/schedule/callback.mju">Click Here</a>		
+<a href="https://www.facebook.com/dialog/oauth?client_id=225380084301603&redirect_uri=http://polpokpoi.iptime.org:8282/event/callback">Click Here</a>		
 </body>
 </html>
